@@ -4,10 +4,8 @@
 
 <h2>Description</h2>
 
-This project analyzes data from the 2020 Cannabis Referendum in New Zealand to help the Green Party determine if it is worth pursuing a citizen-initiated referendum in the next election cycle. The analysis focuses on two main questions:
-A cannabis referendum is a public vote where people decide whether cannabis (marijuana) should be legalized or not.
-
-In the 2020 New Zealand Cannabis Referendum, voters were asked if they supported the proposed Cannabis Legalisation and Control Bill, which would make recreational cannabis legal under specific rules. People voted either "Yes" (to legalize) or "No" (to keep it illegal).
+This project analyzes data from the 2020 Cannabis Referendum in New Zealand to help the Green Party determine if it is worth pursuing a citizen-initiated referendum in the next election cycle. 
+A cannabis referendum is a public vote where people decide whether cannabis (marijuana) should be legalized or not. People voted either "Yes" (to legalize) or "No" (to keep it illegal).
 
 <b> Refrendum: </b> The referendum was a way for the government to understand public opinion on the issue and decide whether to change the law based on the results.
 
