@@ -35,7 +35,12 @@ A cannabis referendum is a public vote where people decide whether cannabis (mar
 - tidy(): Converts model outputs into a clean and readable format (data frame).
 - kable(): Formats a data frame into a well-organized table for reports.
 
-### Tools
+### Tools and Libraries Used
 
+- dplyr: Helps to manipulate data easily by allowing you to filter, select, and modify data.
+- tidyverse: A collection of R packages for data science that includes tools like dplyr (for data manipulation) and ggplot2 (for data visualization).
+- kableExtra: Makes tables look better and more presentable in reports by adding styles like borders and colors.
+- broom: Converts complex model outputs into tidy and easy-to-read data frames for better understanding and analysis.
+- mice: Stands for Multiple Imputation by Chained Equations, handles missing data by filling in the missing values with estimated ones using a method called imputation.
 
 
