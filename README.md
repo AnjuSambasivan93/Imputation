@@ -23,7 +23,17 @@ A cannabis referendum is a public vote where people decide whether cannabis (mar
 <br />
 
 ### Key Functions Used
-
+- ggplot(): Creates plots using the ggplot2 package for data visualization.
+- geom_histogram(): Adds a histogram layer to display the distribution of continuous data.
+- facet_wrap(): Splits the plot into multiple smaller plots based on a categorical variable.
+- mutate(): Creates or modifies columns in a dataset.
+- recode(): Changes values in a column according to specified rules.
+- summarize(): Calculates summary statistics such as mean, count, etc.
+- filter(): Filters data based on specified conditions.
+- complete(): Converts imputed datasets into a complete dataset after handling missing values.
+- pool(): Combines results from multiple imputed datasets into one result.
+- tidy(): Converts model outputs into a clean and readable format (data frame).
+- kable(): Formats a data frame into a well-organized table for reports.
 
 ### Tools
 
